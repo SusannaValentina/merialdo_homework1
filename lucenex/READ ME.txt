@@ -1,0 +1,17 @@
+-	ParserBeforeMain: effettua l'indicizzazione
+
+-	Main: effettua il MergeList 
+	MODIFICHE -> in Parser QUERY_NUMBER indica la colonna della tabella che viene scelta come query
+	
+-	CommitTest: indicizzazione con commit ogni NUM_COMMIT
+	MODIFICHE -> NUM_COMMIT: dopo quante tabelle fare il commit 
+	
+-	Rows100Test: stampa su file le colonne che hanno 100 righe (picco nel grafico della distribuzione del numero delle righe)
+
+-	TopKTimeTest: 1500 mergeList al variare di K
+	MODIFICHE ->	TOP_K_MAX e TOP_K_MIN: selezione dei migliori k (con due k diversi per valutare i tempi di esecuzione del merge)
+					QUERY_TOT: numero di query su cui testare l'algoritmo e valutare i tempi
+					
+-	TopKQueryMaxTimeTest: mergeList al variare di K con la query con il numero massimo di righe
+	MODIFICHE ->	TOP_K_MAX e TOP_K_MIN: selezione dei migliori k (con due k diversi per valutare i tempi di esecuzione del merge)
+							
