@@ -1,0 +1,42 @@
+ID del documento: 0
+Home ╲ Away;Carolina RailHawks U-23's !Carolina RailHawks U-23's;FC Carolina Discoveries !FC Carolina Discoveries;Gate City FC !Gate City FC;Myrtle Beach FC !Myrtle Beach FC;Upward Stars !Upward Stars;
+Carolina RailHawks U-23's !CAR;;;;;1–0;
+FC Carolina Discoveries !CAD;;;;;1–0;
+Gate City FC !GCY;;;;;;
+Myrtle Beach FC !MYB;;1–2;;;;
+Upward Stars !UPW;;;;;;
+Carolina RailHawks U-23's !CAR;;;;;;
+FC Carolina Discoveries !CAD;;;;;;
+Gate City FC !GCY;;;;;;
+Myrtle Beach FC !MYB;;;;;;
+Upward Stars !UPW;;;;;;
+
+Tabella query: 
+
+
+ID del documento: 1995500
+Home ╲ Away;Carolina RailHawks U-23's !Carolina RailHawks U-23's;FC Carolina Discoveries !FC Carolina Discoveries;Gate City FC !Gate City FC;Myrtle Beach FC !Myrtle Beach FC;Upward Stars !Upward Stars;
+Carolina RailHawks U-23's !CAR;;;;;1–0;
+FC Carolina Discoveries !CAD;;;;;1–0;
+Gate City FC !GCY;;;;;;
+Myrtle Beach FC !MYB;;1–2;;;;
+Upward Stars !UPW;;;;;;
+Carolina RailHawks U-23's !CAR;;;;;;
+FC Carolina Discoveries !CAD;;;;;;
+Gate City FC !GCY;;;;;;
+Myrtle Beach FC !MYB;;;;;;
+Upward Stars !UPW;;;;;;
+
+ID del documento: 1998014
+Home ╲ Away;Carolina RailHawks U-23's !Carolina RailHawks U-23's;FC Carolina Discoveries !FC Carolina Discoveries;Gate City FC !Gate City FC;Myrtle Beach FC !Myrtle Beach FC;Upward Stars !Upward Stars;
+Carolina RailHawks U-23's !CAR;;;;;1–0;
+FC Carolina Discoveries !CAD;;;;;1–0;
+Gate City FC !GCY;;;;;;
+Myrtle Beach FC !MYB;;1–2;;;;
+Upward Stars !UPW;;;;;;
+Carolina RailHawks U-23's !CAR;;;;;;
+FC Carolina Discoveries !CAD;;;;;;
+Gate City FC !GCY;;;;;;
+Myrtle Beach FC !MYB;;;;;;
+Upward Stars !UPW;;;;;;
+

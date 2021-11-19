@@ -1,0 +1,12 @@
+Esperimento: 
+query con 21 righe, con k=5: 
+852514 -> 21
+810080 -> 1
+1078667 -> 1
+1662925 -> 1
+2012244 -> 1
+2170975 -> 1
+
+Esperimento: 
+query con 21 righe, con k=1: 
+852514 -> 21

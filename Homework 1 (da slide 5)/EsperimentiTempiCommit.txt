@@ -1,0 +1,6 @@
+Tempo impiegato con commit ogni 50000 tabelle: 234.936 secondi
+
+Tempo impiegato con commit ogni 250000 tabelle: 201.085 secondi
+
+Tempo impiegato con commit ogni 550271 tabelle: 194.967 secondi
+

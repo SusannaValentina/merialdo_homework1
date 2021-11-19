@@ -1,0 +1,23 @@
+ID del documento: 0
+23x15px Angel Nieto;23x15px Eugenio Lazzarini;23x15px Julien van Zeebroeck;23x15px Rudolf Kunz;23x15px Herbert Rittberger;23x16px Stefan Dörflinger;23x15px Nico Polane;23x15px Gerhard Thurow;23x15px Hans Hummel;23x15px Claudio Lusuardi;Theo Timmer;Henk Van Kessel;Aldo Pero;Ulrich Graf;Gerrit Strikker;Cees Van Dongen;Jan Huberts;Rolf Blatter;Ramon Gali;W.Werner;J.Alguersari;Theo Van Geffen;K.Gotesson;Jan Bruins;Robert Laver;C.Guerrini;Ingo Emmerich;Joaquim Gali;Pierre Audry;Germano Zanetti;Günter Schirnhofer;
+Spain;Italy;Belgium;West Germany;West Germany;Switzerland;Netherlands;West Germany;Austria;Italy;;;;;;;;;;;;;;;;;;;;;;
+Kreidler;Piovaticci;Kreidler;Kreidler;Kreidler;Kreidler;Kreidler;Kreidler;Kreidler;Derbi;;;;;;;;;;;;;;;;;;;;;;
+
+Tabella query: 
+
+
+ID del documento: 787408
+Rider;23x15px Angel Nieto;23x15px Eugenio Lazzarini;23x15px Julien van Zeebroeck;23x15px Rudolf Kunz;23x15px Herbert Rittberger;23x16px Stefan Dörflinger;23x15px Nico Polane;23x15px Gerhard Thurow;23x15px Hans Hummel;23x15px Claudio Lusuardi;Theo Timmer;Henk Van Kessel;Aldo Pero;Ulrich Graf;Gerrit Strikker;Cees Van Dongen;Jan Huberts;Rolf Blatter;Ramon Gali;W.Werner;J.Alguersari;Theo Van Geffen;K.Gotesson;Jan Bruins;Robert Laver;C.Guerrini;Ingo Emmerich;Joaquim Gali;Pierre Audry;Germano Zanetti;Günter Schirnhofer;
+Country;Spain;Italy;Belgium;West Germany;West Germany;Switzerland;Netherlands;West Germany;Austria;Italy;;;;;;;;;;;;;;;;;;;;;;
+Machine;Kreidler;Piovaticci;Kreidler;Kreidler;Kreidler;Kreidler;Kreidler;Kreidler;Kreidler;Derbi;;;;;;;;;;;;;;;;;;;;;;
+
+ID del documento: 1166459
+Rider;23x15px Ángel Nieto;23x15px Herbert Rittberger;23x16px Ulrich Graf;23x15px Eugenio Lazzarini;23x15px Rudolf Kunz;23x15px Julien van Zeebroeck;23x16px Stefan Dörflinger;23x16px Rolf Blatter;23x15px Hans Hummel;23x15px Pierre Audry;Aldo Pero;Theo Timmer;Engelbert Kip;Gerrit Strikker;Cees van Dongen;Benjamin Laurent;Günter Schirnhofer;Theo Van Geffen;Ricardo Tormo;Robert Laver;Claudio Lusuardi;Yves Le Tourmelin;E.Mischiatti;B.Stopp;Wolfgang Müller;Ramon Gali;Ermanno Giuliano;
+Country;Spain;West Germany;Switzerland;Italy;West Germany;Belgium;Switzerland;Switzerland;Austria;France;;;;;;;;;;;;;;;;;;
+Machine;Bultaco;Kreidler;Kreidler;Morbidelli;Kreidler;Kreidler;Kreidler;Kreidler;Kreidler;ABF;;;;;;;;;;;;;;;;;;
+
+ID del documento: 1167018
+Rider;23x15px Angel Nieto;23x15px Eugenio Lazzarini;23x15px Ricardo Tormo;23x15px Herbert Rittberger;23x15px Patrick Plisson;23x16px Stefan Dörflinger;23x15px Jean-Louis Guignabodet;23x15px Hans Hummel;23x15px Julien van Zeebroeck;23x15px Ramon Gali;Ulrich Graf;Hagen Klein;Cees Van Dongen;Theo Timmer;Aldo Pero;Günter Schirnhofer;Rolf Blatter;Rudolf Kunz;Claudio Lusuardi;Wolfgang Müller;Engelbert Kip;Adrijan Bernetic;Lennart Lundgren;Ingo Emmerich;C.Dumont;E.Mischiatti;Juup Bosman;J.Novarrete;Peter Looijensteijn;Jacques Hutteau;
+Country;Spain;Italy;Spain;West Germany;France;Switzerland;France;Austria;Belgium;Spain;;;;;;;;;;;;;;;;;;;;;
+Machine;Bultaco;Kreidler;Bultaco;Kreidler;ABF;Kreidler;Morbidelli;Kreidler;Kreidler;Derbi;;;;;;;;;;;;;;;;;;;;;
+

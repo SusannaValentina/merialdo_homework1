@@ -1,0 +1,13 @@
+ID del documento: 0
+Paradise Beach;Paradise Hotel Norway;Paragraf 9;Parenthood;Paris Hilton's British Best Friend;Paris Hilton's My New BFF;Penger for livet;Piker, vin og sang;The Pink Panther;The PJs;Players;Plonsters;Point Pleasant;Police Academy;Police Academy;Police Rescue;Popstars;Popular;Power Rangers;The Powerpuff Girls;Praksisjobben;Pregnant in Heels;Presidio Med;Prison Break;Proffdrømmen;Project Runway;Psyk forandring;A Pup Named Scooby Doo;Pushing Daisies;På G;
+23x15px AUS;23x15px NOR;23x15px SWE;23x15px USA;23x15px UK;23x15px USA;23x15px NOR;23x15px NOR;;23x15px USA;23x15px USA;;23x15px USA;23x15px USA;23x15px USA;23x15px AUS;23x15px NOR;23x15px USA;23x15px USA;23x15px USA;23x15px NOR;23x15px USA;23x15px USA;23x15px USA;23x15px NOR;23x15px USA;23x15px NOR;23x15px USA;23x15px USA;23x15px NOR;
+IMDb;;;;;;;IMDb;IMDb;IMDb;;;IMDb;IMDb;IMDb;IMDb;;IMDb;IMDb;IMDb;;;IMDb;IMDb;;IMDb;;IMDb;;;
+
+Tabella query: 
+
+
+ID del documento: 158684
+Original title;Paradise Beach;Paradise Hotel Norway;Paragraf 9;Parenthood;Paris Hilton's British Best Friend;Paris Hilton's My New BFF;Penger for livet;Piker, vin og sang;The Pink Panther;The PJs;Players;Plonsters;Point Pleasant;Police Academy;Police Academy;Police Rescue;Popstars;Popular;Power Rangers;The Powerpuff Girls;Praksisjobben;Pregnant in Heels;Presidio Med;Prison Break;Proffdrømmen;Project Runway;Psyk forandring;A Pup Named Scooby Doo;Pushing Daisies;På G;
+Country;23x15px AUS;23x15px NOR;23x15px SWE;23x15px USA;23x15px UK;23x15px USA;23x15px NOR;23x15px NOR;;23x15px USA;23x15px USA;;23x15px USA;23x15px USA;23x15px USA;23x15px AUS;23x15px NOR;23x15px USA;23x15px USA;23x15px USA;23x15px NOR;23x15px USA;23x15px USA;23x15px USA;23x15px NOR;23x15px USA;23x15px NOR;23x15px USA;23x15px USA;23x15px NOR;
+IMDb;IMDb;;;;;;;IMDb;IMDb;IMDb;;;IMDb;IMDb;IMDb;IMDb;;IMDb;IMDb;IMDb;;;IMDb;IMDb;;IMDb;;IMDb;;;
+

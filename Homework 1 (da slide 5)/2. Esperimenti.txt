@@ -1,0 +1,6 @@
+Esperimento: 
+ query con 13 righe, con k=5: 
+1618106 -> 13
+Esperimento: 
+ query con 13 righe, con k=1: 
+1618106 -> 13
